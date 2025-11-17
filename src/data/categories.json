@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "name": "Pria Tertampan di PMI 2025",
+    "description": "Pilih pria terbaik yang paling tampan di PMI tahun ini",
+    "icon": "👨",
+    "candidates": [
+      "Ahmad Rizki",
+      "Budi Santoso",
+      "Cahyo Pratama",
+      "Dedi Kurniawan",
+      "Eko Wijaya"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Wanita Ter-Ramah 2025",
+    "description": "Pilih wanita yang paling ramah dan friendly di PMI",
+    "icon": "👩",
+    "candidates": [
+      "Siti Nurhaliza",
+      "Rina Wati",
+      "Maya Sari",
+      "Dewi Lestari",
+      "Indah Permata"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Departemen Terkompak 2025",
+    "description": "Pilih departemen yang paling kompak dan solid",
+    "icon": "👥",
+    "candidates": [
+      "IT & Digital",
+      "HR & General Affairs",
+      "Finance & Accounting",
+      "Marketing & Sales",
+      "Operations"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Karyawan Ter-Inovatif 2025",
+    "description": "Pilih karyawan yang paling inovatif dan kreatif",
+    "icon": "💡",
+    "candidates": [
+      "Fajar Nugroho",
+      "Gita Maharani",
+      "Hadi Susanto",
+      "Ika Putri",
+      "Joko Widodo"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Team Player Terbaik 2025",
+    "description": "Pilih karyawan yang paling baik dalam teamwork",
+    "icon": "🤝",
+    "candidates": [
+      "Kartika Sari",
+      "Lukman Hakim",
+      "Mira Wulandari",
+      "Nur Hidayat",
+      "Oki Setiawan"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Leader Terinspiratif 2025",
+    "description": "Pilih leader yang paling menginspirasi tim",
+    "icon": "⭐",
+    "candidates": [
+      "Pandu Wijaya",
+      "Qori Sandria",
+      "Rizki Maulana",
+      "Sari Dewanti",
+      "Taufik Hidayat"
+    ]
+  }
+]
+

@@ -2,6 +2,14 @@
 
 Aplikasi polling internal yang interaktif dan menyenangkan untuk PMI Awards 2025, dibangun dengan React, Vite, Framer Motion, dan Tailwind CSS.
 
+## 📸 Preview Aplikasi
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; justify-content: center;">
+  <img src="assets/screenshots/preview-1.png" alt="Preview 1" width="48%">
+  <img src="assets/screenshots/preview-2.png" alt="Preview 2" width="48%">
+  <img src="assets/screenshots/preview-3.png" alt="Preview 3" width="98%" style="margin-top: 10px;">
+</div>
+
 ## 🚀 Fitur
 
 - ✨ Animasi halus dengan Framer Motion
